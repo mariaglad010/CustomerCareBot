@@ -1,6 +1,8 @@
 {
   "bot_username": "your_bot_username",
-  "admin_ids": [],
-  "target_chat_id": 0,
+  "admin_ids": [
+    8788171566
+  ],
+  "target_chat_id": 8788171566,
   "timezone": "Europe/Moscow"
 }
